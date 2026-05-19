@@ -21,8 +21,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="CheckmateEvaluator.py" />
     <Compile Include="LogicPY.py" />
+    <Compile Include="MoveValidator.py" />
+    <Compile Include="Piece.py" />
     <Compile Include="TimeLine.py" />
+    <Compile Include="UniverseState.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
