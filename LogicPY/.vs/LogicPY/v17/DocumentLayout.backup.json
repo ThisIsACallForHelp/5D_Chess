@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\5D_Chess\\LogicPY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\TimeLine.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\TimeLine.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\LogicPY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\LogicPY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeLine.py",
+              "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\TimeLine.py",
+              "RelativeDocumentMoniker": "LogicPY\\TimeLine.py",
+              "ToolTip": "C:\\5D_Chess\\LogicPY\\LogicPY\\TimeLine.py",
+              "RelativeToolTip": "LogicPY\\TimeLine.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-19T15:05:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicPY.py",
+              "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\LogicPY.py",
+              "RelativeDocumentMoniker": "LogicPY\\LogicPY.py",
+              "ToolTip": "C:\\5D_Chess\\LogicPY\\LogicPY\\LogicPY.py",
+              "RelativeToolTip": "LogicPY\\LogicPY.py",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-19T15:05:17.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
