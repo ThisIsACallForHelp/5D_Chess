@@ -35,10 +35,13 @@
     <Content Include="Architecture.txt" />
     <Content Include="Images\BB.png" />
     <Content Include="Images\BK.png" />
+    <Content Include="Images\BN.png" />
     <Content Include="Images\BP.png" />
     <Content Include="Images\BQ.png" />
     <Content Include="Images\BR.png" />
+    <Content Include="Images\WB.png" />
     <Content Include="Images\WK.png" />
+    <Content Include="Images\WN.png" />
     <Content Include="Images\WP.png" />
     <Content Include="Images\WQ.png" />
     <Content Include="Images\WR,png.png" />
