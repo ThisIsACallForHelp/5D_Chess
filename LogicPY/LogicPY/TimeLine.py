@@ -8,3 +8,11 @@ class TimeLine:
         self.ParentID = ParentID
         self.CreationTurn = CreationTurn
         self.BoardToCopy = BoardToCopy
+
+    @classmethod
+    def BuildTesseract(cls, TimeLineID, Position_String):
+        instance = cls(timeline_id)
+        Positions = Position_String.split("-")
+        for x in range(4):
+            for y in range(4):
+                for z in range(4):

@@ -11,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\Piece.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\CheckmateEvaluator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\CheckmateEvaluator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\MoveValidator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\MoveValidator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\LogicPY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\LogicPY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\Architecture.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\Architecture.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\CheckmateEvaluator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|solutionrelative:LogicPY\\CheckmateEvaluator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5ABC4B-37E9-4EBB-A182-F6D9E1D9DCD5}|LogicPY\\LogicPY.pyproj|C:\\5D_Chess\\LogicPY\\LogicPY\\UniverseState.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +74,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Architecture.txt",
+              "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\Architecture.txt",
+              "RelativeDocumentMoniker": "LogicPY\\Architecture.txt",
+              "ToolTip": "C:\\5D_Chess\\LogicPY\\LogicPY\\Architecture.txt",
+              "RelativeToolTip": "LogicPY\\Architecture.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-20T12:05:31.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeLine.py",
+              "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\TimeLine.py",
+              "RelativeDocumentMoniker": "LogicPY\\TimeLine.py",
+              "ToolTip": "C:\\5D_Chess\\LogicPY\\LogicPY\\TimeLine.py",
+              "RelativeToolTip": "LogicPY\\TimeLine.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-19T15:05:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CheckmateEvaluator.py",
               "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\CheckmateEvaluator.py",
               "RelativeDocumentMoniker": "LogicPY\\CheckmateEvaluator.py",
@@ -83,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UniverseState.py",
               "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\UniverseState.py",
               "RelativeDocumentMoniker": "LogicPY\\UniverseState.py",
@@ -92,19 +122,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-19T20:12:10.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MoveValidator.py",
-              "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\MoveValidator.py",
-              "RelativeDocumentMoniker": "LogicPY\\MoveValidator.py",
-              "ToolTip": "C:\\5D_Chess\\LogicPY\\LogicPY\\MoveValidator.py",
-              "RelativeToolTip": "LogicPY\\MoveValidator.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-19T20:11:49.1Z",
               "EditorCaption": ""
             },
             {
@@ -122,15 +139,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TimeLine.py",
-              "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\TimeLine.py",
-              "RelativeDocumentMoniker": "LogicPY\\TimeLine.py",
-              "ToolTip": "C:\\5D_Chess\\LogicPY\\LogicPY\\TimeLine.py",
-              "RelativeToolTip": "LogicPY\\TimeLine.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MoveValidator.py",
+              "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\MoveValidator.py",
+              "RelativeDocumentMoniker": "LogicPY\\MoveValidator.py",
+              "ToolTip": "C:\\5D_Chess\\LogicPY\\LogicPY\\MoveValidator.py",
+              "RelativeToolTip": "LogicPY\\MoveValidator.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-19T15:05:47.051Z",
+              "WhenOpened": "2026-05-19T20:11:49.1Z",
               "EditorCaption": ""
             },
             {
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LogicPY.py",
               "DocumentMoniker": "C:\\5D_Chess\\LogicPY\\LogicPY\\LogicPY.py",
               "RelativeDocumentMoniker": "LogicPY\\LogicPY.py",

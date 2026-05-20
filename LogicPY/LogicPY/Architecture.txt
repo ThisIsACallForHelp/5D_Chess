@@ -1,0 +1,42 @@
+TimeLine:
+Constructor: Sets up a blank, independent 4D coordinate grid.
+String Parser (Class Method/Factory): Instantiates a timeline and populates its grid from a flat data string.
+Get Piece: Looks up a coordinate tuple and returns the piece at that spot, or a clear indicator if it is empty.
+Set Piece: Places a piece at a specific coordinate (used when finalizing moves).
+Remove Piece: Clears a coordinate (used when a piece is captured or leaves a square).
+Clone State: Creates an exact duplicate of the current 4D grid (vital for when a timeline forks into parallel branches).
+
+
+UniverseState:
+
+Initialize Game: Sets up the starting "Root" timeline (Timeline 0) with default pieces.
+
+Submit Move: Accepts a player's move request, registers if it's a spatial move (within the same timeline) or a temporal move (traveling to a different time/timeline).
+
+Fork Timeline: Takes an existing timeline state, spins up a brand-new timeline instance with a new ID, and hooks it into the active timelines list.
+
+Get Present Boundary: Calculates the "Present Line" across all timelines to restrict players from making moves on timelines that haven't synchronized up to the current turn boundary yet.
+
+
+MoveValidator:
+Get Valid Vectors: Returns a list of directional vectors based on a piece type (e.g., Rooks change one coordinate axis, Bishops change two identical ones).
+
+Is Path Obstructed: Steps through coordinates along a movement vector to ensure no other pieces are blocking the path.
+
+Is Move Legal: High-level validation that checks coordinate boundaries, piece-specific movement constraints, and friendly-fire restrictions
+
+
+CheckmateEvaluator:
+
+Is King In Check: Scans all active timelines to see if any opposing pieces have a valid, unobstructed movement vector hitting any King's coordinate.
+
+Generate All Multiverse Moves: Aggregates every single legal move a player can make across all currently active timelines combined.
+Is Checkmate: Evaluates if there is an absolute zero count of legal actions remaining across the multiverse that can remove the King from immediate threat.
+
+
+LogicPY:
+Run Loop: Executes the continuous cycle: Draw -> Await Input -> Validate -> Update State -> Check Win Condition -> Switch Turn.
+
+Draw Universe: Translates the 5D coordinates down to a human-readable layout, rendering the macro-grid stack of sub-boards into the console or UI window.
+
+Parse User Input: Converts keyboard or click actions into clear starting and ending coordinate tuples across the system.
